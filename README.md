@@ -15,4 +15,5 @@ CIFAR10 and CIFAR100 consist of 50,000 32x32 color training images and 10,000 te
 The tests show that with the given settings VGG is outperforming the other networks for both datasets:
 ![alt text](./cifar10.png)
 
+For CIFAR100 just the total accuracy and the accuracy for the first 10 labels are shown:
 ![alt text](./cifar100.png)
